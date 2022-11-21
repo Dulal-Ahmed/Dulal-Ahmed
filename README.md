@@ -1,5 +1,5 @@
 
-   <img src="https://scontent.fdac4-1.fna.fbcdn.net/v/t1.6435-9/97508625_1673107679505343_8268779962924793856_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHI27qmYWVCnOlzhvfz-Y08clh192uClZtyWHX3a4KVm28ehA7VfbSmRQF7fjqZeiCLId0vfktwzkUMzVAxCxls&_nc_ohc=UbraWtij8FAAX8gHzBM&tn=Gha9D_nSXRoTDCAS&_nc_ht=scontent.fdac4-1.fna&oh=00_AT8Av-g7pwVmyowKmHHtPlZ-4d9AQfDsGAKhaw44uIZiLA&oe=621F5C96" alt="Dulal-AJ">
+   <img src="https://unsplash.com/photos/zwd435-ewb4" alt="Dulal-AJ">
     
 <h1 align="center">Hi 👋, I'm Dulal AJ</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
